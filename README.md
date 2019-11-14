@@ -1,6 +1,6 @@
 # spam-message-detection
 
-This is my Machine Learning Academic project. Implemented Logistic regression, 10 fold cross validation, word embessing "from scratch".
+This is my Machine Learning Academic project. Implemented Logistic regression, 10 fold cross validation, word embedding "from scratch".
 
 Also compared the accuracies with the generic pre-built classical machine learning models.
 
